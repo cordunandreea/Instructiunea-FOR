@@ -1,3 +1,4 @@
+#Să se calculeze sumele: 
 n = int(input('n='))
 s1 = 0
 s2 = 0
